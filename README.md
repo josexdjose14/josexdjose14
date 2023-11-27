@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @josexdjose14<br>👀 I’m interested in Videogames and Music<br>🌱 I’m currently learning typescript, AWS and Cybersecurity<br>💞️ I’m looking to collaborate on nothing for now<br>📫 How to reach me josexdjose14@gmail.com
+👋 Hi, I’m @josexdjose14<br>👀 I’m interested in Videogames and Music<br>🌱 I’m currently learning typescript, AWS and Cybersecurity<br>💞️ I’m looking to collaborate on JavaScripts+React projects to improve my skills<br>📫 How to reach me josexdjose14@gmail.com
 
 
 ## 🌐 Socials:
